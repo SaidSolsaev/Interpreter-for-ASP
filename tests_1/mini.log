@@ -1,0 +1,6 @@
+
+navn = "Dag"
+print ("Hei,"+navn+"navn") 
+ if  (x <= 14) : 
+  print ("hei") 
+  a = 4

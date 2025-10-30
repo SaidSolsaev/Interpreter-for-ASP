@@ -1,0 +1,375 @@
+Trace line 0: <--- Program Start --->
+Trace line 4: def boblesorter
+Trace line 15: 3
+Trace line 15: 17
+Trace line 15: -3
+Trace line 15: 0
+Trace line 15: 3
+Trace line 15: 1
+Trace line 15: 12
+Trace line 15: [3, 17, -3, 0, 3, 1, 12]
+Trace line 15: data is assigned to: [3, 17, -3, 0, 3, 1, 12]
+Trace line 16: 0
+Trace line 16: ombyttinger is assigned to: 0
+Trace line 17: [3, 17, -3, 0, 3, 1, 12]
+Trace line 17: Function: boblesorter([3, 17, -3, 0, 3, 1, 12]):
+Trace line 6: True
+Trace line 6: while True: ... 
+Trace line 7: False
+Trace line 7: endret is assigned to: False
+Trace line 8: 1
+Trace line 8: [3, 17, -3, 0, 3, 1, 12]
+Trace line 8: Function: len([3, 17, -3, 0, 3, 1, 12]):
+Trace line 8: 7
+Trace line 8: Function: range(1, 7):
+Trace line 8: [1, 2, 3, 4, 5, 6]
+Trace line 8: for #1: i = 1
+Trace line 9: 0
+Trace line 9: 3
+Trace line 9: 0
+Trace line 9: 3
+Trace line 9: 1
+Trace line 9: 17
+Trace line 8: for #2: i = 2
+Trace line 9: 1
+Trace line 9: 17
+Trace line 9: 1
+Trace line 9: 17
+Trace line 9: 2
+Trace line 9: -3
+Trace line 9: If ...
+Trace line 10: 1
+Trace line 10: 17
+Trace line 10: t is assigned to: 17
+Trace line 10: 2
+Trace line 10: -3
+Trace line 10: 1
+Trace line 10: a[ 1 ] is assigned to -3
+Trace line 10: 17
+Trace line 10: 2
+Trace line 10: a[ 2 ] is assigned to 17
+Trace line 11: 1
+Trace line 11: ombyttinger is assigned to: 1
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 8: for #3: i = 3
+Trace line 9: 2
+Trace line 9: 17
+Trace line 9: 2
+Trace line 9: 17
+Trace line 9: 3
+Trace line 9: 0
+Trace line 9: If ...
+Trace line 10: 2
+Trace line 10: 17
+Trace line 10: t is assigned to: 17
+Trace line 10: 3
+Trace line 10: 0
+Trace line 10: 2
+Trace line 10: a[ 2 ] is assigned to 0
+Trace line 10: 17
+Trace line 10: 3
+Trace line 10: a[ 3 ] is assigned to 17
+Trace line 11: 2
+Trace line 11: ombyttinger is assigned to: 2
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 8: for #4: i = 4
+Trace line 9: 3
+Trace line 9: 17
+Trace line 9: 3
+Trace line 9: 17
+Trace line 9: 4
+Trace line 9: 3
+Trace line 9: If ...
+Trace line 10: 3
+Trace line 10: 17
+Trace line 10: t is assigned to: 17
+Trace line 10: 4
+Trace line 10: 3
+Trace line 10: 3
+Trace line 10: a[ 3 ] is assigned to 3
+Trace line 10: 17
+Trace line 10: 4
+Trace line 10: a[ 4 ] is assigned to 17
+Trace line 11: 3
+Trace line 11: ombyttinger is assigned to: 3
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 8: for #5: i = 5
+Trace line 9: 4
+Trace line 9: 17
+Trace line 9: 4
+Trace line 9: 17
+Trace line 9: 5
+Trace line 9: 1
+Trace line 9: If ...
+Trace line 10: 4
+Trace line 10: 17
+Trace line 10: t is assigned to: 17
+Trace line 10: 5
+Trace line 10: 1
+Trace line 10: 4
+Trace line 10: a[ 4 ] is assigned to 1
+Trace line 10: 17
+Trace line 10: 5
+Trace line 10: a[ 5 ] is assigned to 17
+Trace line 11: 4
+Trace line 11: ombyttinger is assigned to: 4
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 8: for #6: i = 6
+Trace line 9: 5
+Trace line 9: 17
+Trace line 9: 5
+Trace line 9: 17
+Trace line 9: 6
+Trace line 9: 12
+Trace line 9: If ...
+Trace line 10: 5
+Trace line 10: 17
+Trace line 10: t is assigned to: 17
+Trace line 10: 6
+Trace line 10: 12
+Trace line 10: 5
+Trace line 10: a[ 5 ] is assigned to 12
+Trace line 10: 17
+Trace line 10: 6
+Trace line 10: a[ 6 ] is assigned to 17
+Trace line 11: 5
+Trace line 11: ombyttinger is assigned to: 5
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 13: True
+Trace line 6: True
+Trace line 6: while True: ... 
+Trace line 7: False
+Trace line 7: endret is assigned to: False
+Trace line 8: 1
+Trace line 8: [3, -3, 0, 3, 1, 12, 17]
+Trace line 8: Function: len([3, -3, 0, 3, 1, 12, 17]):
+Trace line 8: 7
+Trace line 8: Function: range(1, 7):
+Trace line 8: [1, 2, 3, 4, 5, 6]
+Trace line 8: for #1: i = 1
+Trace line 9: 0
+Trace line 9: 3
+Trace line 9: 0
+Trace line 9: 3
+Trace line 9: 1
+Trace line 9: -3
+Trace line 9: If ...
+Trace line 10: 0
+Trace line 10: 3
+Trace line 10: t is assigned to: 3
+Trace line 10: 1
+Trace line 10: -3
+Trace line 10: 0
+Trace line 10: a[ 0 ] is assigned to -3
+Trace line 10: 3
+Trace line 10: 1
+Trace line 10: a[ 1 ] is assigned to 3
+Trace line 11: 6
+Trace line 11: ombyttinger is assigned to: 6
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 8: for #2: i = 2
+Trace line 9: 1
+Trace line 9: 3
+Trace line 9: 1
+Trace line 9: 3
+Trace line 9: 2
+Trace line 9: 0
+Trace line 9: If ...
+Trace line 10: 1
+Trace line 10: 3
+Trace line 10: t is assigned to: 3
+Trace line 10: 2
+Trace line 10: 0
+Trace line 10: 1
+Trace line 10: a[ 1 ] is assigned to 0
+Trace line 10: 3
+Trace line 10: 2
+Trace line 10: a[ 2 ] is assigned to 3
+Trace line 11: 7
+Trace line 11: ombyttinger is assigned to: 7
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 8: for #3: i = 3
+Trace line 9: 2
+Trace line 9: 3
+Trace line 9: 2
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 3
+Trace line 8: for #4: i = 4
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 4
+Trace line 9: 1
+Trace line 9: If ...
+Trace line 10: 3
+Trace line 10: 3
+Trace line 10: t is assigned to: 3
+Trace line 10: 4
+Trace line 10: 1
+Trace line 10: 3
+Trace line 10: a[ 3 ] is assigned to 1
+Trace line 10: 3
+Trace line 10: 4
+Trace line 10: a[ 4 ] is assigned to 3
+Trace line 11: 8
+Trace line 11: ombyttinger is assigned to: 8
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 8: for #5: i = 5
+Trace line 9: 4
+Trace line 9: 3
+Trace line 9: 4
+Trace line 9: 3
+Trace line 9: 5
+Trace line 9: 12
+Trace line 8: for #6: i = 6
+Trace line 9: 5
+Trace line 9: 12
+Trace line 9: 5
+Trace line 9: 12
+Trace line 9: 6
+Trace line 9: 17
+Trace line 13: True
+Trace line 6: True
+Trace line 6: while True: ... 
+Trace line 7: False
+Trace line 7: endret is assigned to: False
+Trace line 8: 1
+Trace line 8: [-3, 0, 3, 1, 3, 12, 17]
+Trace line 8: Function: len([-3, 0, 3, 1, 3, 12, 17]):
+Trace line 8: 7
+Trace line 8: Function: range(1, 7):
+Trace line 8: [1, 2, 3, 4, 5, 6]
+Trace line 8: for #1: i = 1
+Trace line 9: 0
+Trace line 9: -3
+Trace line 9: 0
+Trace line 9: -3
+Trace line 9: 1
+Trace line 9: 0
+Trace line 8: for #2: i = 2
+Trace line 9: 1
+Trace line 9: 0
+Trace line 9: 1
+Trace line 9: 0
+Trace line 9: 2
+Trace line 9: 3
+Trace line 8: for #3: i = 3
+Trace line 9: 2
+Trace line 9: 3
+Trace line 9: 2
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 1
+Trace line 9: If ...
+Trace line 10: 2
+Trace line 10: 3
+Trace line 10: t is assigned to: 3
+Trace line 10: 3
+Trace line 10: 1
+Trace line 10: 2
+Trace line 10: a[ 2 ] is assigned to 1
+Trace line 10: 3
+Trace line 10: 3
+Trace line 10: a[ 3 ] is assigned to 3
+Trace line 11: 9
+Trace line 11: ombyttinger is assigned to: 9
+Trace line 12: True
+Trace line 12: endret is assigned to: True
+Trace line 8: for #4: i = 4
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 4
+Trace line 9: 3
+Trace line 8: for #5: i = 5
+Trace line 9: 4
+Trace line 9: 3
+Trace line 9: 4
+Trace line 9: 3
+Trace line 9: 5
+Trace line 9: 12
+Trace line 8: for #6: i = 6
+Trace line 9: 5
+Trace line 9: 12
+Trace line 9: 5
+Trace line 9: 12
+Trace line 9: 6
+Trace line 9: 17
+Trace line 13: True
+Trace line 6: True
+Trace line 6: while True: ... 
+Trace line 7: False
+Trace line 7: endret is assigned to: False
+Trace line 8: 1
+Trace line 8: [-3, 0, 1, 3, 3, 12, 17]
+Trace line 8: Function: len([-3, 0, 1, 3, 3, 12, 17]):
+Trace line 8: 7
+Trace line 8: Function: range(1, 7):
+Trace line 8: [1, 2, 3, 4, 5, 6]
+Trace line 8: for #1: i = 1
+Trace line 9: 0
+Trace line 9: -3
+Trace line 9: 0
+Trace line 9: -3
+Trace line 9: 1
+Trace line 9: 0
+Trace line 8: for #2: i = 2
+Trace line 9: 1
+Trace line 9: 0
+Trace line 9: 1
+Trace line 9: 0
+Trace line 9: 2
+Trace line 9: 1
+Trace line 8: for #3: i = 3
+Trace line 9: 2
+Trace line 9: 1
+Trace line 9: 2
+Trace line 9: 1
+Trace line 9: 3
+Trace line 9: 3
+Trace line 8: for #4: i = 4
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 3
+Trace line 9: 4
+Trace line 9: 3
+Trace line 8: for #5: i = 5
+Trace line 9: 4
+Trace line 9: 3
+Trace line 9: 4
+Trace line 9: 3
+Trace line 9: 5
+Trace line 9: 12
+Trace line 8: for #6: i = 6
+Trace line 9: 5
+Trace line 9: 12
+Trace line 9: 5
+Trace line 9: 12
+Trace line 9: 6
+Trace line 9: 17
+Trace line 13: False
+Trace line 13: If ...
+Trace line 13: 0
+Trace line 13: Return 0
+Trace line 17: 0
+Trace line 17: 0
+Trace line 18: Resultatet etter
+Trace line 18: 9
+Trace line 18: ombyttinger er
+Trace line 18: [-3, 0, 1, 3, 3, 12, 17]
+Trace line 18: Function: print('Resultatet etter', 9, 'ombyttinger er', [-3, 0, 1, 3, 3, 12, 17]):
+Trace line 18: None
+Trace line 18: None
+Trace line 0: <--- Program End --->

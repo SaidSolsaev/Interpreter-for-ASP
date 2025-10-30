@@ -1,0 +1,268 @@
+Trace line 0: <--- Program Start --->
+Trace line 3: 2021
+Trace line 3: y is assigned to: 2021
+Trace line 4: 2021
+Trace line 4: 2021
+Trace line 4: 2025
+Trace line 4: while True: ... 
+Trace line 5: 7
+Trace line 5: a is assigned to: 7
+Trace line 6: 20
+Trace line 6: b is assigned to: 20
+Trace line 7: 21
+Trace line 7: c is assigned to: 21
+Trace line 8: 5
+Trace line 8: d is assigned to: 5
+Trace line 9: 0
+Trace line 9: e is assigned to: 0
+Trace line 10: 28
+Trace line 10: 1
+Trace line 10: f is assigned to: 1
+Trace line 11: 20
+Trace line 11: 6
+Trace line 11: g is assigned to: 6
+Trace line 12: 157
+Trace line 12: 7
+Trace line 12: h is assigned to: 7
+Trace line 13: 5
+Trace line 13: i is assigned to: 5
+Trace line 14: 1
+Trace line 14: k is assigned to: 1
+Trace line 15: 34
+Trace line 15: 6
+Trace line 15: l is assigned to: 6
+Trace line 16: 216
+Trace line 16: 0
+Trace line 16: m is assigned to: 0
+Trace line 18: 127
+Trace line 18: 4
+Trace line 18: month is assigned to: 4
+Trace line 19: 127
+Trace line 19: 4
+Trace line 19: day is assigned to: 4
+Trace line 20: 4
+Trace line 20: 4
+Trace line 20: 3
+Trace line 20: else: ...
+Trace line 23: 4
+Trace line 23: Function: str(4):
+Trace line 23: 4. april
+Trace line 23: 2021
+Trace line 23: Function: print('4. april', 2021):
+Trace line 23: None
+Trace line 23: None
+Trace line 24: 2022
+Trace line 24: y is assigned to: 2022
+Trace line 4: 2022
+Trace line 4: 2022
+Trace line 4: 2025
+Trace line 4: while True: ... 
+Trace line 5: 8
+Trace line 5: a is assigned to: 8
+Trace line 6: 20
+Trace line 6: b is assigned to: 20
+Trace line 7: 22
+Trace line 7: c is assigned to: 22
+Trace line 8: 5
+Trace line 8: d is assigned to: 5
+Trace line 9: 0
+Trace line 9: e is assigned to: 0
+Trace line 10: 28
+Trace line 10: 1
+Trace line 10: f is assigned to: 1
+Trace line 11: 20
+Trace line 11: 6
+Trace line 11: g is assigned to: 6
+Trace line 12: 176
+Trace line 12: 26
+Trace line 12: h is assigned to: 26
+Trace line 13: 5
+Trace line 13: i is assigned to: 5
+Trace line 14: 2
+Trace line 14: k is assigned to: 2
+Trace line 15: 14
+Trace line 15: 0
+Trace line 15: l is assigned to: 0
+Trace line 16: 294
+Trace line 16: 0
+Trace line 16: m is assigned to: 0
+Trace line 18: 140
+Trace line 18: 4
+Trace line 18: month is assigned to: 4
+Trace line 19: 140
+Trace line 19: 17
+Trace line 19: day is assigned to: 17
+Trace line 20: 4
+Trace line 20: 4
+Trace line 20: 3
+Trace line 20: else: ...
+Trace line 23: 17
+Trace line 23: Function: str(17):
+Trace line 23: 17. april
+Trace line 23: 2022
+Trace line 23: Function: print('17. april', 2022):
+Trace line 23: None
+Trace line 23: None
+Trace line 24: 2023
+Trace line 24: y is assigned to: 2023
+Trace line 4: 2023
+Trace line 4: 2023
+Trace line 4: 2025
+Trace line 4: while True: ... 
+Trace line 5: 9
+Trace line 5: a is assigned to: 9
+Trace line 6: 20
+Trace line 6: b is assigned to: 20
+Trace line 7: 23
+Trace line 7: c is assigned to: 23
+Trace line 8: 5
+Trace line 8: d is assigned to: 5
+Trace line 9: 0
+Trace line 9: e is assigned to: 0
+Trace line 10: 28
+Trace line 10: 1
+Trace line 10: f is assigned to: 1
+Trace line 11: 20
+Trace line 11: 6
+Trace line 11: g is assigned to: 6
+Trace line 12: 195
+Trace line 12: 15
+Trace line 12: h is assigned to: 15
+Trace line 13: 5
+Trace line 13: i is assigned to: 5
+Trace line 14: 3
+Trace line 14: k is assigned to: 3
+Trace line 15: 24
+Trace line 15: 3
+Trace line 15: l is assigned to: 3
+Trace line 16: 240
+Trace line 16: 0
+Trace line 16: m is assigned to: 0
+Trace line 18: 132
+Trace line 18: 4
+Trace line 18: month is assigned to: 4
+Trace line 19: 132
+Trace line 19: 9
+Trace line 19: day is assigned to: 9
+Trace line 20: 4
+Trace line 20: 4
+Trace line 20: 3
+Trace line 20: else: ...
+Trace line 23: 9
+Trace line 23: Function: str(9):
+Trace line 23: 9. april
+Trace line 23: 2023
+Trace line 23: Function: print('9. april', 2023):
+Trace line 23: None
+Trace line 23: None
+Trace line 24: 2024
+Trace line 24: y is assigned to: 2024
+Trace line 4: 2024
+Trace line 4: 2024
+Trace line 4: 2025
+Trace line 4: while True: ... 
+Trace line 5: 10
+Trace line 5: a is assigned to: 10
+Trace line 6: 20
+Trace line 6: b is assigned to: 20
+Trace line 7: 24
+Trace line 7: c is assigned to: 24
+Trace line 8: 5
+Trace line 8: d is assigned to: 5
+Trace line 9: 0
+Trace line 9: e is assigned to: 0
+Trace line 10: 28
+Trace line 10: 1
+Trace line 10: f is assigned to: 1
+Trace line 11: 20
+Trace line 11: 6
+Trace line 11: g is assigned to: 6
+Trace line 12: 214
+Trace line 12: 4
+Trace line 12: h is assigned to: 4
+Trace line 13: 6
+Trace line 13: i is assigned to: 6
+Trace line 14: 0
+Trace line 14: k is assigned to: 0
+Trace line 15: 40
+Trace line 15: 5
+Trace line 15: l is assigned to: 5
+Trace line 16: 164
+Trace line 16: 0
+Trace line 16: m is assigned to: 0
+Trace line 18: 123
+Trace line 18: 3
+Trace line 18: month is assigned to: 3
+Trace line 19: 123
+Trace line 19: 31
+Trace line 19: day is assigned to: 31
+Trace line 20: 3
+Trace line 20: 3
+Trace line 20: 3
+Trace line 20: If ...
+Trace line 21: 31
+Trace line 21: Function: str(31):
+Trace line 21: 31. mars
+Trace line 21: 2024
+Trace line 21: Function: print('31. mars', 2024):
+Trace line 21: None
+Trace line 21: None
+Trace line 24: 2025
+Trace line 24: y is assigned to: 2025
+Trace line 4: 2025
+Trace line 4: 2025
+Trace line 4: 2025
+Trace line 4: while True: ... 
+Trace line 5: 11
+Trace line 5: a is assigned to: 11
+Trace line 6: 20
+Trace line 6: b is assigned to: 20
+Trace line 7: 25
+Trace line 7: c is assigned to: 25
+Trace line 8: 5
+Trace line 8: d is assigned to: 5
+Trace line 9: 0
+Trace line 9: e is assigned to: 0
+Trace line 10: 28
+Trace line 10: 1
+Trace line 10: f is assigned to: 1
+Trace line 11: 20
+Trace line 11: 6
+Trace line 11: g is assigned to: 6
+Trace line 12: 233
+Trace line 12: 23
+Trace line 12: h is assigned to: 23
+Trace line 13: 6
+Trace line 13: i is assigned to: 6
+Trace line 14: 1
+Trace line 14: k is assigned to: 1
+Trace line 15: 20
+Trace line 15: 6
+Trace line 15: l is assigned to: 6
+Trace line 16: 396
+Trace line 16: 0
+Trace line 16: m is assigned to: 0
+Trace line 18: 143
+Trace line 18: 4
+Trace line 18: month is assigned to: 4
+Trace line 19: 143
+Trace line 19: 20
+Trace line 19: day is assigned to: 20
+Trace line 20: 4
+Trace line 20: 4
+Trace line 20: 3
+Trace line 20: else: ...
+Trace line 23: 20
+Trace line 23: Function: str(20):
+Trace line 23: 20. april
+Trace line 23: 2025
+Trace line 23: Function: print('20. april', 2025):
+Trace line 23: None
+Trace line 23: None
+Trace line 24: 2026
+Trace line 24: y is assigned to: 2026
+Trace line 4: 2026
+Trace line 4: 2026
+Trace line 4: 2025
+Trace line 4: while False: 
+Trace line 0: <--- Program End --->

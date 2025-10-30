@@ -1,0 +1,8 @@
+["a","e","i","o","u"][2.5] ==>
+Trace line 3: a
+Trace line 3: e
+Trace line 3: i
+Trace line 3: o
+Trace line 3: u
+Trace line 3: 2.5
+Asp runtime error on line 3: TypeError: list indices must be integers or slices, not float

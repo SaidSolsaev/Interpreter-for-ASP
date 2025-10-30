@@ -1,0 +1,16 @@
+
+def hjerter():
+    navn = input("Skriv inn et navn: ")
+    navn2 = input("Skriv inn et navn til: ")
+
+    print(navn + "hjerter " + navn2)
+
+    if (navn == ""):
+        print("Skriv et navn smarting")
+    elif (navn == "Medina" and navn2 == "Said"):
+        print(navn2 + " hjerter deg også" + navn)
+    else:
+        print(navn + "hjerter egentelig ikke deg " + navn2)
+
+for i in range(10):
+    hjerter()

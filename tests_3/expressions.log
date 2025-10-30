@@ -1,0 +1,92 @@
+42.0 ==>
+Trace line 2: 42.0
+Trace line 2: 42.0
+-1017 ==>
+Trace line 3: -1017
+Trace line 3: -1017
+-2 + 5 * 7 ==>
+Trace line 4: 33
+Trace line 4: 33
+8 // 3 *  (2 + 3)  ==>
+Trace line 5: 5
+Trace line 5: 10
+Trace line 5: 10
+42.0 ==>
+Trace line 8: 42.0
+Trace line 8: 42.0
+-1017.1 ==>
+Trace line 9: -1017.1
+Trace line 9: -1017.1
+1.4142 * 1.4142 ==>
+Trace line 10: 1.9999616399999998
+Trace line 10: 1.9999616399999998
+-2 + 5.0 * 7 ==>
+Trace line 11: 33.0
+Trace line 11: 33.0
+"Abc" ==>
+Trace line 14: Abc
+Trace line 14: 'Abc'
+"x" * 6 ==>
+Trace line 15: xxxxxx
+Trace line 15: 'xxxxxx'
+"Abra" + "ka" + "dabra" ==>
+Trace line 16: Abrakadabra
+Trace line 16: 'Abrakadabra'
+"abcdefghij"[4] ==>
+Trace line 17: 4
+Trace line 17: e
+Trace line 17: 'e'
+not False ==>
+Trace line 20: False
+Trace line 20: True
+"To be" or "not to be" ==>
+Trace line 21: To be
+Trace line 21: 'To be'
+"Yes" and 3.14 ==>
+Trace line 22: Yes
+Trace line 22: 3.14
+Trace line 22: 3.14
+False or True or 144 or "?" ==>
+Trace line 23: False
+Trace line 23: True
+Trace line 23: True
+1 < 0 ==>
+Trace line 26: 1
+Trace line 26: 1
+Trace line 26: 0
+Trace line 26: False
+1 <= 2 <= 3 ==>
+Trace line 27: 1
+Trace line 27: 1
+Trace line 27: 2
+Trace line 27: 2
+Trace line 27: 3
+Trace line 27: True
+[] ==>
+Trace line 30: []
+Trace line 30: []
+[-1,0,1] *  (2)  ==>
+Trace line 31: -1
+Trace line 31: 0
+Trace line 31: 1
+Trace line 31: 2
+Trace line 31: [-1, 0, 1, -1, 0, 1]
+Trace line 31: [-1, 0, 1, -1, 0, 1]
+[101,102,103][1] ==>
+Trace line 32: 101
+Trace line 32: 102
+Trace line 32: 103
+Trace line 32: 1
+Trace line 32: 102
+Trace line 32: 102
+{"A":"a", "B":1 + 2, } ==>
+Trace line 35: a
+Trace line 35: 3
+Trace line 35: { A : a, B : 3 }
+Trace line 35: { A : a, B : 3 }
+{"Ja":17, "Nei":22, }["Ja"] ==>
+Trace line 36: 17
+Trace line 36: 22
+Trace line 36: Ja
+Trace line 36: 17
+Trace line 36: 17

@@ -1,0 +1,51 @@
+   1: navn = "said"
+Scanner: = token on line 1
+Scanner: name token on line 1: navn
+Scanner: string literal token on line 1: "said"
+Scanner: NEWLINE token on line 1
+   2: 
+Scanner: NEWLINE token on line 2
+   3: if navn == "said":
+Scanner: = token on line 3
+Scanner: = token on line 3
+Scanner: : token on line 3
+Scanner: if token on line 3
+Scanner: name token on line 3: navn
+Scanner: string literal token on line 3: "said"
+Scanner: NEWLINE token on line 3
+   4:     print(navn)
+Scanner: INDENT token on line 4
+Scanner: ( token on line 4
+Scanner: ) token on line 4
+Scanner: name token on line 4: print
+Scanner: name token on line 4: navn
+Scanner: NEWLINE token on line 4
+   5: 
+Scanner: DEDENT token on line 5
+Scanner: NEWLINE token on line 5
+   6: navn = 'said'
+Scanner: = token on line 6
+Scanner: name token on line 6: navn
+Scanner: string literal token on line 6: "said"
+Scanner: NEWLINE token on line 6
+   7: 
+Scanner: NEWLINE token on line 7
+   8: while (navn == "said"):
+Scanner: ( token on line 8
+Scanner: = token on line 8
+Scanner: = token on line 8
+Scanner: ) token on line 8
+Scanner: : token on line 8
+Scanner: while token on line 8
+Scanner: name token on line 8: navn
+Scanner: string literal token on line 8: "said"
+Scanner: NEWLINE token on line 8
+   9:     print("q")
+Scanner: INDENT token on line 9
+Scanner: ( token on line 9
+Scanner: ) token on line 9
+Scanner: name token on line 9: print
+Scanner: string literal token on line 9: "q"
+Scanner: NEWLINE token on line 9
+Scanner: DEDENT token
+Scanner: E-o-f token

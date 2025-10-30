@@ -1,0 +1,5 @@
+{"Menn":45, "Kvinner":46, }["Barn"] ==>
+Trace line 3: 45
+Trace line 3: 46
+Trace line 3: Barn
+Asp runtime error on line 3: Keyerror for dictionary, Could not find value for: 'Barn'

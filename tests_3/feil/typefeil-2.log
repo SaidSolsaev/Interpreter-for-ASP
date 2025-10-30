@@ -1,0 +1,5 @@
+True ==  (not False)  ==>
+Trace line 3: True
+Trace line 3: False
+Trace line 3: True
+Asp runtime error on line 3: Type error for ==.

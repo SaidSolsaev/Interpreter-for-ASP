@@ -1,0 +1,18 @@
+Trace line 0: <--- Program Start --->
+Trace line 2: String:
+Trace line 2: Function: input('String:'):
+Trace line 2: aa
+Trace line 2: a is assigned to: aa
+Trace line 3: s: 
+Trace line 3: Function: input('s: '):
+Trace line 3: as
+Trace line 3: b is assigned to: as
+Trace line 5: aa
+Trace line 5: aa
+Trace line 5: as
+Trace line 5: else: ...
+Trace line 8: feil
+Trace line 8: Function: print('feil'):
+Trace line 8: None
+Trace line 8: None
+Trace line 0: <--- Program End --->

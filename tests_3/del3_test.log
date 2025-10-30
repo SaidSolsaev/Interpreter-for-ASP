@@ -1,0 +1,51 @@
+5 * 5 == 25 ==>
+Trace line 1: 25
+Trace line 1: 25
+Trace line 1: 25
+Trace line 1: True
+1 and 4 and 5 ==>
+Trace line 2: 1
+Trace line 2: 4
+Trace line 2: 5
+Trace line 2: 5
+-4 or 2 or 1 ==>
+Trace line 3: -4
+Trace line 3: -4
+False or False or False ==>
+Trace line 4: False
+Trace line 4: False
+Trace line 4: False
+Trace line 4: False
+{"Nei":15, "Ja":17, }["Nei"] ==>
+Trace line 6: 15
+Trace line 6: 17
+Trace line 6: Nei
+Trace line 6: 15
+Trace line 6: 15
+-4 ==>
+Trace line 7: -4
+Trace line 7: -4
++2 ==>
+Trace line 8: 2
+Trace line 8: 2
+ (31 + -10)  *  (-5 + 10)  ==>
+Trace line 9: 21
+Trace line 9: 5
+Trace line 9: 105
+Trace line 9: 105
+1 <= 2 <= 3 <= 4 ==>
+Trace line 11: 1
+Trace line 11: 1
+Trace line 11: 2
+Trace line 11: 2
+Trace line 11: 3
+Trace line 11: False
+4 > 3 > 4 > 3 ==>
+Trace line 13: 4
+Trace line 13: 4
+Trace line 13: 3
+Trace line 13: 3
+Trace line 13: 4
+Trace line 13: 4
+Trace line 13: 3
+Trace line 13: True

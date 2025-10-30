@@ -1,0 +1,10 @@
+<program>
+   1: # Dette programmet definerer en funksjon uten noe innhold; det er ikke lov.
+   2: 
+   3: def f():
+  <stmt>
+    <compound stmt>
+      <func def>
+        <name>
+        </name>
+Asp parser error on line 3: Expected { but found (!

@@ -1,0 +1,126 @@
+Trace line 0: <--- Program Start --->
+Trace line 4: man
+Trace line 4: tirs
+Trace line 4: ons
+Trace line 4: tors
+Trace line 4: fre
+Trace line 4: lør
+Trace line 4: søn
+Trace line 4: [man, tirs, ons, tors, fre, lør, søn]
+Trace line 4: ukedag is assigned to: [man, tirs, ons, tors, fre, lør, søn]
+Trace line 5: 0
+Trace line 5: 31
+Trace line 5: 28
+Trace line 5: 31
+Trace line 5: 30
+Trace line 5: 31
+Trace line 5: 30
+Trace line 5: 31
+Trace line 5: 31
+Trace line 5: 30
+Trace line 5: 31
+Trace line 5: 30
+Trace line 5: 31
+Trace line 5: [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+Trace line 5: m_leng is assigned to: [0, 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+Trace line 7: 0
+Trace line 7: 13
+Trace line 7: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Trace line 7: m_navn is assigned to: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Trace line 8: januar
+Trace line 8: 1
+Trace line 8: m_navn[ 1 ] is assigned to januar
+Trace line 8: februar
+Trace line 8: 2
+Trace line 8: m_navn[ 2 ] is assigned to februar
+Trace line 8: mars
+Trace line 8: 3
+Trace line 8: m_navn[ 3 ] is assigned to mars
+Trace line 9: april
+Trace line 9: 4
+Trace line 9: m_navn[ 4 ] is assigned to april
+Trace line 9: mai
+Trace line 9: 5
+Trace line 9: m_navn[ 5 ] is assigned to mai
+Trace line 9: juni
+Trace line 9: 6
+Trace line 9: m_navn[ 6 ] is assigned to juni
+Trace line 10: juli
+Trace line 10: 7
+Trace line 10: m_navn[ 7 ] is assigned to juli
+Trace line 10: august
+Trace line 10: 8
+Trace line 10: m_navn[ 8 ] is assigned to august
+Trace line 10: september
+Trace line 10: 9
+Trace line 10: m_navn[ 9 ] is assigned to september
+Trace line 11: oktober
+Trace line 11: 10
+Trace line 11: m_navn[ 10 ] is assigned to oktober
+Trace line 11: november
+Trace line 11: 11
+Trace line 11: m_navn[ 11 ] is assigned to november
+Trace line 11: desember
+Trace line 11: 12
+Trace line 11: m_navn[ 12 ] is assigned to desember
+Trace line 15: def finn_maaned
+Trace line 21: def les_maaned
+Trace line 29: def er_skuddaar
+Trace line 33: def finn_m_leng
+Trace line 38: def finn_dag_nr
+Trace line 53: Oppgi et år: 
+Trace line 53: Function: input('Oppgi et år: '):
+Trace line 53: 1
+Trace line 53: Function: int('1'):
+Trace line 53: 1
+Trace line 53: aar is assigned to: 1
+Trace line 54: Function: les_maaned():
+Trace line 22: True
+Trace line 22: while True: ... 
+Trace line 23: Oppgi en måned: 
+Trace line 23: Function: input('Oppgi en måned: '):
+Trace line 23: januar
+Trace line 23: m_id is assigned to: januar
+Trace line 24: januar
+Trace line 24: Function: finn_maaned('januar'):
+Trace line 16: 1
+Trace line 16: [0, januar, februar, mars, april, mai, juni, juli, august, september, oktober, november, desember]
+Trace line 16: Function: len([0, januar, februar, mars, april, mai, juni, juli, august, september, oktober, november, desember]):
+Trace line 16: 13
+Trace line 16: Function: range(1, 13):
+Trace line 16: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+Trace line 16: for #1: m_ix = 1
+Trace line 17: 1
+Trace line 17: januar
+Trace line 17: 1
+Trace line 17: januar
+Trace line 17: januar
+Trace line 17: If True: 
+Trace line 17: 1
+Trace line 17: Return 1
+Trace line 24: 1
+Trace line 24: m_num is assigned to: 1
+Trace line 25: 1
+Trace line 25: 1
+Trace line 25: 0
+Trace line 25: If True: 
+Trace line 25: 1
+Trace line 25: Return 1
+Trace line 54: 1
+Trace line 54: maaned is assigned to: 1
+Trace line 55: Oppgi en dag: 
+Trace line 55: Function: input('Oppgi en dag: '):
+Trace line 55: 1
+Trace line 55: Function: int('1'):
+Trace line 55: 1
+Trace line 55: dag is assigned to: 1
+Trace line 56: 1
+Trace line 56: 1
+Trace line 56: 1
+Trace line 56: Function: finn_dag_nr(1, 1, 1):
+Trace line 39: 1
+Trace line 39: d_nr is assigned to: 1
+Trace line 42: 1900
+Trace line 42: 1
+Trace line 42: Function: range(1900, 1):
+Asp runtime error on line 42: range: invalid start parameter

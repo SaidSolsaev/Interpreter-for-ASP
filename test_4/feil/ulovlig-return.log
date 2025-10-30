@@ -1,0 +1,10 @@
+Trace line 0: <--- Program Start --->
+Trace line 1: def f
+Trace line 4: Function: f():
+Trace line 2: 3
+Trace line 2: Return 3
+Trace line 4: 3
+Trace line 4: x is assigned to: 3
+Trace line 5: 3
+Trace line 5: Return 3
+Asp runtime error on line 5: Return outside of function! On Line: 

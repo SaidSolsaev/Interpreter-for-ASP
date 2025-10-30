@@ -1,0 +1,49 @@
+   1: 
+Scanner: NEWLINE token on line 1
+   2: 
+Scanner: NEWLINE token on line 2
+   3: a = 7
+Scanner: = token on line 3
+Scanner: name token on line 3: a
+Scanner: integer literal token on line 3: 7
+Scanner: NEWLINE token on line 3
+   4:     else
+Scanner: INDENT token on line 4
+Scanner: else token on line 4
+Scanner: NEWLINE token on line 4
+   5:                         else
+Scanner: INDENT token on line 5
+Scanner: INDENT token on line 5
+Scanner: INDENT token on line 5
+Scanner: INDENT token on line 5
+Scanner: INDENT token on line 5
+Scanner: INDENT token on line 5
+Scanner: else token on line 5
+Scanner: NEWLINE token on line 5
+   6: if 
+Scanner: DEDENT token on line 6
+Scanner: DEDENT token on line 6
+Scanner: DEDENT token on line 6
+Scanner: DEDENT token on line 6
+Scanner: DEDENT token on line 6
+Scanner: DEDENT token on line 6
+Scanner: DEDENT token on line 6
+Scanner: if token on line 6
+Scanner: NEWLINE token on line 6
+   7:     hei
+Scanner: INDENT token on line 7
+Scanner: NEWLINE token on line 7
+   8:             hei
+Scanner: INDENT token on line 8
+Scanner: INDENT token on line 8
+Scanner: INDENT token on line 8
+Scanner: NEWLINE token on line 8
+   9: if else du
+Scanner: DEDENT token on line 9
+Scanner: DEDENT token on line 9
+Scanner: DEDENT token on line 9
+Scanner: DEDENT token on line 9
+Scanner: if token on line 9
+Scanner: else token on line 9
+Scanner: NEWLINE token on line 9
+  10: else    

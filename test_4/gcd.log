@@ -1,0 +1,62 @@
+Trace line 0: <--- Program Start --->
+Trace line 8: def GCD
+Trace line 14: A number: 
+Trace line 14: Function: input('A number: '):
+Trace line 14: 32
+Trace line 14: Function: int('32'):
+Trace line 14: 32
+Trace line 14: v1 is assigned to: 32
+Trace line 15: Another number: 
+Trace line 15: Function: input('Another number: '):
+Trace line 15: 36
+Trace line 15: Function: int('36'):
+Trace line 15: 36
+Trace line 15: v2 is assigned to: 36
+Trace line 17: 32
+Trace line 17: 36
+Trace line 17: Function: GCD(32, 36):
+Trace line 9: 36
+Trace line 9: 36
+Trace line 9: 0
+Trace line 9: else: ...
+Trace line 12: 36
+Trace line 12: 32
+Trace line 12: Function: GCD(36, 32):
+Trace line 9: 32
+Trace line 9: 32
+Trace line 9: 0
+Trace line 9: else: ...
+Trace line 12: 32
+Trace line 12: 4
+Trace line 12: Function: GCD(32, 4):
+Trace line 9: 4
+Trace line 9: 4
+Trace line 9: 0
+Trace line 9: else: ...
+Trace line 12: 4
+Trace line 12: 0
+Trace line 12: Function: GCD(4, 0):
+Trace line 9: 0
+Trace line 9: 0
+Trace line 9: 0
+Trace line 9: If ...
+Trace line 10: 4
+Trace line 10: Return 4
+Trace line 12: 4
+Trace line 12: Return 4
+Trace line 12: 4
+Trace line 12: Return 4
+Trace line 12: 4
+Trace line 12: Return 4
+Trace line 17: 4
+Trace line 17: res is assigned to: 4
+Trace line 18: 32
+Trace line 18: Function: str(32):
+Trace line 18: 36
+Trace line 18: Function: str(36):
+Trace line 18: GCD(32,36) =
+Trace line 18: 4
+Trace line 18: Function: print('GCD(32,36) =', 4):
+Trace line 18: None
+Trace line 18: None
+Trace line 0: <--- Program End --->
