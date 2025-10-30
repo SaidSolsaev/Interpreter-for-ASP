@@ -1,4 +1,3 @@
-// © 2021 Dag Langmyhr, Institutt for informatikk, Universitetet i Oslo
 
 package no.uio.ifi.asp.scanner;
 

@@ -1,0 +1,488 @@
+Trace line 0: <--- Program Start --->
+Trace line 4: 0
+Trace line 4: ant_kall is assigned to: 0
+Trace line 6: def min
+Trace line 11: def max
+Trace line 14: def median
+Trace line 17: def test
+Trace line 22: 1
+Trace line 22: 2
+Trace line 22: 3
+Trace line 22: Function: test(1, 2, 3):
+Trace line 19: 0
+Trace line 19: ant_kall is assigned to: 0
+Trace line 20: median(
+Trace line 20: 1
+Trace line 20: 2
+Trace line 20: 3
+Trace line 20: ) er
+Trace line 20: 1
+Trace line 20: 2
+Trace line 20: 3
+Trace line 20: Function: median(1, 2, 3):
+Trace line 15: 1
+Trace line 15: 2
+Trace line 15: Function: min(1, 2):
+Trace line 7: 1
+Trace line 7: ant_kall is assigned to: 1
+Trace line 8: 1
+Trace line 8: 1
+Trace line 8: 2
+Trace line 8: If True: 
+Trace line 8: 1
+Trace line 8: Return 1
+Trace line 15: 1
+Trace line 15: 1
+Trace line 15: 2
+Trace line 15: Function: max(1, 2):
+Trace line 12: -1
+Trace line 12: -2
+Trace line 12: Function: min(-1, -2):
+Trace line 7: 2
+Trace line 7: ant_kall is assigned to: 2
+Trace line 8: -1
+Trace line 8: -1
+Trace line 8: -2
+Trace line 8: else: ...
+Trace line 9: -2
+Trace line 9: Return -2
+Trace line 12: 2
+Trace line 12: Return 2
+Trace line 15: 2
+Trace line 15: 3
+Trace line 15: Function: min(2, 3):
+Trace line 7: 3
+Trace line 7: ant_kall is assigned to: 3
+Trace line 8: 2
+Trace line 8: 2
+Trace line 8: 3
+Trace line 8: If True: 
+Trace line 8: 2
+Trace line 8: Return 2
+Trace line 15: 2
+Trace line 15: Function: max(1, 2):
+Trace line 12: -1
+Trace line 12: -2
+Trace line 12: Function: min(-1, -2):
+Trace line 7: 4
+Trace line 7: ant_kall is assigned to: 4
+Trace line 8: -1
+Trace line 8: -1
+Trace line 8: -2
+Trace line 8: else: ...
+Trace line 9: -2
+Trace line 9: Return -2
+Trace line 12: 2
+Trace line 12: Return 2
+Trace line 15: 2
+Trace line 15: Return 2
+Trace line 20: 2
+Trace line 20: 4
+Trace line 20: Function: str(4):
+Trace line 20: [4 kall]
+Trace line 20: Function: print('median(', 1, 2, 3, ') er', 2, '[4 kall]'):
+Trace line 20: None
+Trace line 20: None
+Trace line 22: None
+Trace line 22: None
+Trace line 23: 1
+Trace line 23: 3
+Trace line 23: 2
+Trace line 23: Function: test(1, 3, 2):
+Trace line 19: 0
+Trace line 19: ant_kall is assigned to: 0
+Trace line 20: median(
+Trace line 20: 1
+Trace line 20: 3
+Trace line 20: 2
+Trace line 20: ) er
+Trace line 20: 1
+Trace line 20: 3
+Trace line 20: 2
+Trace line 20: Function: median(1, 3, 2):
+Trace line 15: 1
+Trace line 15: 3
+Trace line 15: Function: min(1, 3):
+Trace line 7: 1
+Trace line 7: ant_kall is assigned to: 1
+Trace line 8: 1
+Trace line 8: 1
+Trace line 8: 3
+Trace line 8: If True: 
+Trace line 8: 1
+Trace line 8: Return 1
+Trace line 15: 1
+Trace line 15: 1
+Trace line 15: 3
+Trace line 15: Function: max(1, 3):
+Trace line 12: -1
+Trace line 12: -3
+Trace line 12: Function: min(-1, -3):
+Trace line 7: 2
+Trace line 7: ant_kall is assigned to: 2
+Trace line 8: -1
+Trace line 8: -1
+Trace line 8: -3
+Trace line 8: else: ...
+Trace line 9: -3
+Trace line 9: Return -3
+Trace line 12: 3
+Trace line 12: Return 3
+Trace line 15: 3
+Trace line 15: 2
+Trace line 15: Function: min(3, 2):
+Trace line 7: 3
+Trace line 7: ant_kall is assigned to: 3
+Trace line 8: 3
+Trace line 8: 3
+Trace line 8: 2
+Trace line 8: else: ...
+Trace line 9: 2
+Trace line 9: Return 2
+Trace line 15: 2
+Trace line 15: Function: max(1, 2):
+Trace line 12: -1
+Trace line 12: -2
+Trace line 12: Function: min(-1, -2):
+Trace line 7: 4
+Trace line 7: ant_kall is assigned to: 4
+Trace line 8: -1
+Trace line 8: -1
+Trace line 8: -2
+Trace line 8: else: ...
+Trace line 9: -2
+Trace line 9: Return -2
+Trace line 12: 2
+Trace line 12: Return 2
+Trace line 15: 2
+Trace line 15: Return 2
+Trace line 20: 2
+Trace line 20: 4
+Trace line 20: Function: str(4):
+Trace line 20: [4 kall]
+Trace line 20: Function: print('median(', 1, 3, 2, ') er', 2, '[4 kall]'):
+Trace line 20: None
+Trace line 20: None
+Trace line 23: None
+Trace line 23: None
+Trace line 24: 2
+Trace line 24: 1
+Trace line 24: 3
+Trace line 24: Function: test(2, 1, 3):
+Trace line 19: 0
+Trace line 19: ant_kall is assigned to: 0
+Trace line 20: median(
+Trace line 20: 2
+Trace line 20: 1
+Trace line 20: 3
+Trace line 20: ) er
+Trace line 20: 2
+Trace line 20: 1
+Trace line 20: 3
+Trace line 20: Function: median(2, 1, 3):
+Trace line 15: 2
+Trace line 15: 1
+Trace line 15: Function: min(2, 1):
+Trace line 7: 1
+Trace line 7: ant_kall is assigned to: 1
+Trace line 8: 2
+Trace line 8: 2
+Trace line 8: 1
+Trace line 8: else: ...
+Trace line 9: 1
+Trace line 9: Return 1
+Trace line 15: 1
+Trace line 15: 2
+Trace line 15: 1
+Trace line 15: Function: max(2, 1):
+Trace line 12: -2
+Trace line 12: -1
+Trace line 12: Function: min(-2, -1):
+Trace line 7: 2
+Trace line 7: ant_kall is assigned to: 2
+Trace line 8: -2
+Trace line 8: -2
+Trace line 8: -1
+Trace line 8: If True: 
+Trace line 8: -2
+Trace line 8: Return -2
+Trace line 12: 2
+Trace line 12: Return 2
+Trace line 15: 2
+Trace line 15: 3
+Trace line 15: Function: min(2, 3):
+Trace line 7: 3
+Trace line 7: ant_kall is assigned to: 3
+Trace line 8: 2
+Trace line 8: 2
+Trace line 8: 3
+Trace line 8: If True: 
+Trace line 8: 2
+Trace line 8: Return 2
+Trace line 15: 2
+Trace line 15: Function: max(1, 2):
+Trace line 12: -1
+Trace line 12: -2
+Trace line 12: Function: min(-1, -2):
+Trace line 7: 4
+Trace line 7: ant_kall is assigned to: 4
+Trace line 8: -1
+Trace line 8: -1
+Trace line 8: -2
+Trace line 8: else: ...
+Trace line 9: -2
+Trace line 9: Return -2
+Trace line 12: 2
+Trace line 12: Return 2
+Trace line 15: 2
+Trace line 15: Return 2
+Trace line 20: 2
+Trace line 20: 4
+Trace line 20: Function: str(4):
+Trace line 20: [4 kall]
+Trace line 20: Function: print('median(', 2, 1, 3, ') er', 2, '[4 kall]'):
+Trace line 20: None
+Trace line 20: None
+Trace line 24: None
+Trace line 24: None
+Trace line 25: 2
+Trace line 25: 3
+Trace line 25: 1
+Trace line 25: Function: test(2, 3, 1):
+Trace line 19: 0
+Trace line 19: ant_kall is assigned to: 0
+Trace line 20: median(
+Trace line 20: 2
+Trace line 20: 3
+Trace line 20: 1
+Trace line 20: ) er
+Trace line 20: 2
+Trace line 20: 3
+Trace line 20: 1
+Trace line 20: Function: median(2, 3, 1):
+Trace line 15: 2
+Trace line 15: 3
+Trace line 15: Function: min(2, 3):
+Trace line 7: 1
+Trace line 7: ant_kall is assigned to: 1
+Trace line 8: 2
+Trace line 8: 2
+Trace line 8: 3
+Trace line 8: If True: 
+Trace line 8: 2
+Trace line 8: Return 2
+Trace line 15: 2
+Trace line 15: 2
+Trace line 15: 3
+Trace line 15: Function: max(2, 3):
+Trace line 12: -2
+Trace line 12: -3
+Trace line 12: Function: min(-2, -3):
+Trace line 7: 2
+Trace line 7: ant_kall is assigned to: 2
+Trace line 8: -2
+Trace line 8: -2
+Trace line 8: -3
+Trace line 8: else: ...
+Trace line 9: -3
+Trace line 9: Return -3
+Trace line 12: 3
+Trace line 12: Return 3
+Trace line 15: 3
+Trace line 15: 1
+Trace line 15: Function: min(3, 1):
+Trace line 7: 3
+Trace line 7: ant_kall is assigned to: 3
+Trace line 8: 3
+Trace line 8: 3
+Trace line 8: 1
+Trace line 8: else: ...
+Trace line 9: 1
+Trace line 9: Return 1
+Trace line 15: 1
+Trace line 15: Function: max(2, 1):
+Trace line 12: -2
+Trace line 12: -1
+Trace line 12: Function: min(-2, -1):
+Trace line 7: 4
+Trace line 7: ant_kall is assigned to: 4
+Trace line 8: -2
+Trace line 8: -2
+Trace line 8: -1
+Trace line 8: If True: 
+Trace line 8: -2
+Trace line 8: Return -2
+Trace line 12: 2
+Trace line 12: Return 2
+Trace line 15: 2
+Trace line 15: Return 2
+Trace line 20: 2
+Trace line 20: 4
+Trace line 20: Function: str(4):
+Trace line 20: [4 kall]
+Trace line 20: Function: print('median(', 2, 3, 1, ') er', 2, '[4 kall]'):
+Trace line 20: None
+Trace line 20: None
+Trace line 25: None
+Trace line 25: None
+Trace line 26: 3
+Trace line 26: 1
+Trace line 26: 2
+Trace line 26: Function: test(3, 1, 2):
+Trace line 19: 0
+Trace line 19: ant_kall is assigned to: 0
+Trace line 20: median(
+Trace line 20: 3
+Trace line 20: 1
+Trace line 20: 2
+Trace line 20: ) er
+Trace line 20: 3
+Trace line 20: 1
+Trace line 20: 2
+Trace line 20: Function: median(3, 1, 2):
+Trace line 15: 3
+Trace line 15: 1
+Trace line 15: Function: min(3, 1):
+Trace line 7: 1
+Trace line 7: ant_kall is assigned to: 1
+Trace line 8: 3
+Trace line 8: 3
+Trace line 8: 1
+Trace line 8: else: ...
+Trace line 9: 1
+Trace line 9: Return 1
+Trace line 15: 1
+Trace line 15: 3
+Trace line 15: 1
+Trace line 15: Function: max(3, 1):
+Trace line 12: -3
+Trace line 12: -1
+Trace line 12: Function: min(-3, -1):
+Trace line 7: 2
+Trace line 7: ant_kall is assigned to: 2
+Trace line 8: -3
+Trace line 8: -3
+Trace line 8: -1
+Trace line 8: If True: 
+Trace line 8: -3
+Trace line 8: Return -3
+Trace line 12: 3
+Trace line 12: Return 3
+Trace line 15: 3
+Trace line 15: 2
+Trace line 15: Function: min(3, 2):
+Trace line 7: 3
+Trace line 7: ant_kall is assigned to: 3
+Trace line 8: 3
+Trace line 8: 3
+Trace line 8: 2
+Trace line 8: else: ...
+Trace line 9: 2
+Trace line 9: Return 2
+Trace line 15: 2
+Trace line 15: Function: max(1, 2):
+Trace line 12: -1
+Trace line 12: -2
+Trace line 12: Function: min(-1, -2):
+Trace line 7: 4
+Trace line 7: ant_kall is assigned to: 4
+Trace line 8: -1
+Trace line 8: -1
+Trace line 8: -2
+Trace line 8: else: ...
+Trace line 9: -2
+Trace line 9: Return -2
+Trace line 12: 2
+Trace line 12: Return 2
+Trace line 15: 2
+Trace line 15: Return 2
+Trace line 20: 2
+Trace line 20: 4
+Trace line 20: Function: str(4):
+Trace line 20: [4 kall]
+Trace line 20: Function: print('median(', 3, 1, 2, ') er', 2, '[4 kall]'):
+Trace line 20: None
+Trace line 20: None
+Trace line 26: None
+Trace line 26: None
+Trace line 27: 3
+Trace line 27: 2
+Trace line 27: 1
+Trace line 27: Function: test(3, 2, 1):
+Trace line 19: 0
+Trace line 19: ant_kall is assigned to: 0
+Trace line 20: median(
+Trace line 20: 3
+Trace line 20: 2
+Trace line 20: 1
+Trace line 20: ) er
+Trace line 20: 3
+Trace line 20: 2
+Trace line 20: 1
+Trace line 20: Function: median(3, 2, 1):
+Trace line 15: 3
+Trace line 15: 2
+Trace line 15: Function: min(3, 2):
+Trace line 7: 1
+Trace line 7: ant_kall is assigned to: 1
+Trace line 8: 3
+Trace line 8: 3
+Trace line 8: 2
+Trace line 8: else: ...
+Trace line 9: 2
+Trace line 9: Return 2
+Trace line 15: 2
+Trace line 15: 3
+Trace line 15: 2
+Trace line 15: Function: max(3, 2):
+Trace line 12: -3
+Trace line 12: -2
+Trace line 12: Function: min(-3, -2):
+Trace line 7: 2
+Trace line 7: ant_kall is assigned to: 2
+Trace line 8: -3
+Trace line 8: -3
+Trace line 8: -2
+Trace line 8: If True: 
+Trace line 8: -3
+Trace line 8: Return -3
+Trace line 12: 3
+Trace line 12: Return 3
+Trace line 15: 3
+Trace line 15: 1
+Trace line 15: Function: min(3, 1):
+Trace line 7: 3
+Trace line 7: ant_kall is assigned to: 3
+Trace line 8: 3
+Trace line 8: 3
+Trace line 8: 1
+Trace line 8: else: ...
+Trace line 9: 1
+Trace line 9: Return 1
+Trace line 15: 1
+Trace line 15: Function: max(2, 1):
+Trace line 12: -2
+Trace line 12: -1
+Trace line 12: Function: min(-2, -1):
+Trace line 7: 4
+Trace line 7: ant_kall is assigned to: 4
+Trace line 8: -2
+Trace line 8: -2
+Trace line 8: -1
+Trace line 8: If True: 
+Trace line 8: -2
+Trace line 8: Return -2
+Trace line 12: 2
+Trace line 12: Return 2
+Trace line 15: 2
+Trace line 15: Return 2
+Trace line 20: 2
+Trace line 20: 4
+Trace line 20: Function: str(4):
+Trace line 20: [4 kall]
+Trace line 20: Function: print('median(', 3, 2, 1, ') er', 2, '[4 kall]'):
+Trace line 20: None
+Trace line 20: None
+Trace line 27: None
+Trace line 27: None
+Trace line 0: <--- Program End --->

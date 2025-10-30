@@ -1,4 +1,3 @@
-
 package no.uio.ifi.asp.main;
 
 import no.uio.ifi.asp.parser.AspExpr;
@@ -19,7 +18,7 @@ public class Main {
         boolean testExpr = false, testParser = false, testScanner = false,
                 logE = false, logP = false, logS = false, logY = false;
 
-        System.out.println("This is the IN2030 Asp interpreter (" + version + ") Utviklet av SS og MM.");
+        System.out.println("This is the IN2030 Asp interpreter (" + version + ") Utviklet av Said Solsaev.");
 
         for (String a : arg) {
             if (a.equals("-logE")) {
